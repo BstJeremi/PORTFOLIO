@@ -1,0 +1,37 @@
+body {
+    background: url('background.jpg') repeat;
+}
+
+img {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    width: 9%;
+}
+
+.col1 p {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.dropdown {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.nav-brand {
+    text-decoration: none;
+    color: white;
+}
+
+.row a:hover {
+    text-decoration: blue;
+}
+
+.nav-link:hover {
+    text-decoration: blue;
+}
